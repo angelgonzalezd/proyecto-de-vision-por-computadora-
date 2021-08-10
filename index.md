@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-   <div>Teachable Machine Pose Model</div>
+<div>Teachable Machine Pose Model</div>
 <button type="button" onclick="init()">Start</button>
 <div><canvas id="canvas"></canvas></div>
 <div id="label-container"></div>
@@ -20,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/pose
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/Qy3RnUifi/";
+    const URL = "./my_model/";
     let model, webcam, ctx, labelContainer, maxPredictions;
 
     async function init() {
@@ -86,6 +86,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
         }
     }
 </script>
+
 
 ```markdown
 Syntax highlighted code block
