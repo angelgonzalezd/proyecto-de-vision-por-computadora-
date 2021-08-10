@@ -4,10 +4,11 @@ You can use the [editor on GitHub](https://github.com/angelgonzalezd/proyecto-de
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Reconocimiento de Toma de Fotografia 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Reconocimiento de postura para la toma de fotografía con la herramienta de Teachable Machine.
+Visualizarlo en una pagina web de GitHub con la tecnología de tensorflow.js
+Mediante la cámara en la pagina podemos ver si estamos en una postura correcta de tomas de fotografía.
 
 <div>Teachable Machine Pose Model</div>
 <button type="button" onclick="init()">Start</button>
