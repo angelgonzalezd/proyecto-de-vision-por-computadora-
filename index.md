@@ -21,7 +21,7 @@ Mediante la cámara en la pagina podemos ver si estamos en una postura correcta 
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/pose
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "./my_model/";
+    const URL = "https://teachablemachine.withgoogle.com/models/45BYz9mL4/";
     let model, webcam, ctx, labelContainer, maxPredictions;
 
     async function init() {
