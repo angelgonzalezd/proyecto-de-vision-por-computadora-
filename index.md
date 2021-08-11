@@ -85,7 +85,7 @@ Mediante la cámara en la pagina podemos ver si estamos en una postura correcta 
     }
 </script>
 </center>
-
+<p>
 
 ```markdown
 Syntax highlighted code block
