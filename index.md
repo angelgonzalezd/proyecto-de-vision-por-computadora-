@@ -1,6 +1,6 @@
 ## Bienvenido Reconocimiento de Postura para toma de fotografia 
 
-<center> ### Reconocimiento de Toma de Fotografia </center>
+<center> Reconocimiento de Toma de Fotografia </center>
 
 Reconocimiento de postura para la toma de fotografía con la herramienta de Teachable Machine.
 Visualizarlo en una pagina web de GitHub con la tecnología de tensorflow.js
