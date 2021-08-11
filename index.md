@@ -94,6 +94,7 @@ Syntax highlighted code block
 # Si te sale como resultado "0" es una postura incorrecta
 
 ```
+<p>    
 
 
 Herramientas con la que se trabajo fue Teachable Machine Pose Model  [editor on GitHub](https://teachablemachine.withgoogle.com/train?action=signout) 
