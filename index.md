@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido Reconocimiento de Postura para toma de fotografia 
 
 You can use the [editor on GitHub](https://github.com/angelgonzalezd/proyecto-de-vision-por-computadora-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -92,9 +92,8 @@ Mediante la cámara en la pagina podemos ver si estamos en una postura correcta 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Si te sale como resultado "1" es una postura correcta
+# Si te sale como resultado "0" es una postura incorrecta
 
 - Bulleted
 - List
