@@ -1,1 +1,1 @@
-# Proyecto-de-vision-por-computadora-
+# Proyecto-de-vision-por-computadora
